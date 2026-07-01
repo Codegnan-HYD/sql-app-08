@@ -8,7 +8,8 @@ A SQL application to implement one-to-many association.
 * Create an ER Diagram using the Physical Data Model.
 
 #### Data Set:
-* Customer First Name, Customer Last Name, Customer Mobile Order Date, Order Amount, and No. of Items.
+* Customer Data: First name, last name, and mobile number.
+* Order Data: Order Date and Order Amount.
 
 #### Rules:
 * A customer can place many separate orders.
@@ -19,11 +20,11 @@ A SQL application to implement one-to-many association.
 * Insert records for 6 customers where 4 customers have placed orders and 2 customers have not.
 * Out of 4 customer who placed orders, 2 customers have placed multiple orders, and 2 customers have placed single orders.
 * Find customers who have placed orders.
-* Find customers Without Orders
+* Find customers without orders.
 * Find customers, even those without orders.
 * Find customers having orders placed after 2025.
 * Find the total order amount per customer.
-* Find customers who have placed more than one order
+* Find customers who have placed more than one order.
 
 ## Getting Started
 Follow these steps to get a local repository up and running:
