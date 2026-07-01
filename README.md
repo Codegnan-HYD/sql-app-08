@@ -58,6 +58,7 @@ Follow these steps to get a local repository up and running:
 `git add ERD-Logical.png`
 `git add ERD-Physical.png`
 `git add DDL.sql`
+`git add DML.sql`
 
 7. Commit your changes:
 `git commit -m <your commit message>`
